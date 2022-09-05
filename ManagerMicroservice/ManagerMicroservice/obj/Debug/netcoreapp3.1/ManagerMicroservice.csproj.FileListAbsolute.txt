@@ -1,0 +1,203 @@
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.exe
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.deps.json
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.json
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CopyComplete
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.dll
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+C:\Users\bhavya\source\repos\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.genruntimeconfig.cache
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.exe
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.deps.json
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.json
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.dev.json
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.AssemblyReference.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfoInputs.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfo.cs
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CoreCompileInputs.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ManagerMicroservice.styles.css
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CopyComplete
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.dll
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+D:\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.genruntimeconfig.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.exe
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.deps.json
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.json
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.runtimeconfig.dev.json
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.AssemblyReference.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfoInputs.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.AssemblyInfo.cs
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ManagerMicroservice.StaticWebAssets.xml
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ManagerMicroservice.styles.css
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.csproj.CopyComplete
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.dll
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.pdb
+C:\Users\kasus\Downloads\ManagerMicroservice (2)\ManagerMicroservice\ManagerMicroservice\obj\Debug\netcoreapp3.1\ManagerMicroservice.genruntimeconfig.cache
